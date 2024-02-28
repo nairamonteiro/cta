@@ -1,2 +1,2 @@
 # CTA
-Um CTA (Call To Action) co background de imagem que se movimenta.
+Um CTA (Call To Action) com background de imagem que se movimenta.
